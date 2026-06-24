@@ -1,2 +1,3 @@
 update5
-git update featureA
+update on featureB branch
+git update feature
